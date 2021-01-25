@@ -11,7 +11,7 @@ I'm Ujjwal Malhotra, a **Full Stack Developer**, based in New Delhi, India, who 
 
   ✔️ Technologies Known:
   - Java, Python, R Lang., HTML, CSS, JavaScript, JQuery, JSON, NodeJS, ExpressJS, MongoDB
-  - Amazon Web Services (AWS), Apache Tomcat, Git, MySQL
+  - Amazon Web Services (AWS), Apache Tomcat, Git, MySQL, PostgreSQL
 
 ## 📫 How to reach me?
 If you would like to connect with me, you can find me on [LinkedIn](www.linkedin.com/in/ujjwal-malhotra-4a3a79a2). You can also ask me anything.
