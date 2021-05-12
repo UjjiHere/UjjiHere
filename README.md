@@ -14,7 +14,7 @@ I'm Ujjwal Malhotra, a **Full Stack Developer**, based in New Delhi, India, who 
   - Amazon Web Services (AWS), Apache Tomcat, Git, MySQL, PostgreSQL
 
 ## 📫 How to reach me?
-If you would like to connect with me, you can find me on [LinkedIn](www.linkedin.com/in/ujjwal-malhotra-4a3a79a2). 
+If you would like to connect with me, you can find me on [LinkedIn](https://www.linkedin.com/in/ujjwal-malhotra-4a3a79a2). 
 Or you email me as well- ujjwal18vit@gmail.com
 You can also ask me anything.
 Although I'm not currently looking for freelance opportunities but my inbox is always open. Whether for a potential project or just to say hi 😄
